@@ -1,4 +1,4 @@
-                                                                                                                                                                                                              # Hello, I'm Joshua
+#Hello, I'm Joshua
 <a href="https://linkedin.com/in/joshua-knisley-842a05336/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
                                              
 Interested in IT and cyber security I intend to show my progress in an attempt to further my knowledge of Information Technology.
