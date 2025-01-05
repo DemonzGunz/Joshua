@@ -4,7 +4,6 @@
 Interested in IT and cyber security I intend to show my progress in an attempt to further my knowledge of Information Technology.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 After building my first computer and diving deeper in to the software and hardware of technology. It has lead me to realize my passion for technology as a whole. Leading me to push my self to gain more knowledge of the basics of IT and cybersecurity.
 Making me more aware of just how important network security really is.
