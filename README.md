@@ -13,7 +13,7 @@ Making me more aware of just how important network security really is.
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Starting a home lab through VirtualBox        | <a href="https://goolge.com">Home Lab</a>| 
+| Starting a home lab through VirtualBox        | <a href="https://github.com/DemonzGunz/Virtual-Home-Lab/blob/main/README.md">Virtual Home Lab</a>| 
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
@@ -45,5 +45,6 @@ Making me more aware of just how important network security really is.
 </div>
 
 ## Projects
+- <a href="https://github.com/DemonzGunz/Virtual-Home-Lab/blob/main/README.md">Virtual Home Lab</a>
 - Detection Lab
 - SOC Automation Project
