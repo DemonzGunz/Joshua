@@ -22,7 +22,7 @@ Making me more aware of just how important network security really is.
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-
+<img src="https://img.shields.io/badge/-VirtualBox-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 
 ### Network
 <div>
@@ -41,7 +41,7 @@ Making me more aware of just how important network security really is.
 
 ## Certifications
 <div>
-<a href="https://coursera.org/share/3470ada4c63705f7c1fba8a4b39b4f74"><img src="https://img.shields.io/badge/-Google IT Certificate-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://coursera.org/share/3470ada4c63705f7c1fba8a4b39b4f74"><img src="https://img.shields.io/badge/-Google IT Support Certificate-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
 ## Projects
