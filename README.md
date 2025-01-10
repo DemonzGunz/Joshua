@@ -23,11 +23,12 @@ Making me more aware of just how important network security really is.
 
 ## Tools
 <img src="https://img.shields.io/badge/-VirtualBox-1679A7?&style=for-the-badge&logo=VirtualBox&logoColor=white" />
+<img src="https://img.shields.io/badge/-Splunk-1679A7?&style=for-the-badge&logo=Splunk&logoColor=white" />
 
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-1679A7?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    
 </div>
 
 ### Endpoint
