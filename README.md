@@ -48,5 +48,5 @@ Making me more aware of just how important network security really is.
 
 ## Projects
 - <a href="https://github.com/DemonzGunz/Virtual-Home-Lab/blob/main/README.md">Virtual Home Lab</a>
-- Detection Lab
+-  <a href="https://google.com">Detection Lab</a>
 - SOC Automation Project
