@@ -16,6 +16,7 @@ Making me more aware of just how important network security really is.
 | Starting a home lab through VirtualBox        | <a href="https://github.com/DemonzGunz/Virtual-Home-Lab/blob/main/README.md">Virtual Home Lab</a>| 
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/DemonzGunz/Detection-Lab">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/DemonzGunz/Detection-Lab">Detection Lab</a>|
+| Setting up active directory for my Virtual lab| Active Directory|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
@@ -49,4 +50,5 @@ Making me more aware of just how important network security really is.
 ## Projects
 - <a href="https://github.com/DemonzGunz/Virtual-Home-Lab/blob/main/README.md">Virtual Home Lab</a>
 - <a href="https://github.com/DemonzGunz/Detection-Lab">Detection Lab</a>
+- Active Directory
 - SOC Automation Project
